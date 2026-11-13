@@ -1,1 +1,2 @@
 Hi this is lab6 program
+update line
